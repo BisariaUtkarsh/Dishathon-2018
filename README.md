@@ -40,7 +40,7 @@ Built With:
 <li>** Video Link:** 
   <ul style="list-style-type:none">
     <li>
-Video https://youtu.be/ZKA1DxjNaAc
+    <a href="https://youtu.be/ZKA1DxjNaAc">Video!</a>
     </li>
   </ul>
 </li>
