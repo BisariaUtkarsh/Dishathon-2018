@@ -37,11 +37,7 @@ Built With:
   </ul>
 </li>
   
-<li> 
-  <ul style="list-style-type:none">
-    <li>
+<li style="list-style-type:none"> 
     <a href="https://youtu.be/ZKA1DxjNaAc">Video Link to DEMO!</a>
-    </li>
-  </ul>
 </li>
 </ul>
